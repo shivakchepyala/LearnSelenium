@@ -1,2 +1,2 @@
 # LearningSelenium
-This is focused on learning selenium concepts
+Mainly to showcase selenium concepts
